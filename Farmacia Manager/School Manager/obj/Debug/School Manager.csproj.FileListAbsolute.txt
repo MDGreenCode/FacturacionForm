@@ -1,0 +1,29 @@
+C:\Users\Cliente\source\repos\School Manager\School Manager\bin\Debug\School Manager.exe.config
+C:\Users\Cliente\source\repos\School Manager\School Manager\bin\Debug\School Manager.exe
+C:\Users\Cliente\source\repos\School Manager\School Manager\bin\Debug\School Manager.pdb
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Home.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Properties.Resources.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School Manager.csproj.GenerateResource.cache
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School Manager.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School Manager.exe
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School Manager.pdb
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Login.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Admin.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Admin_Profesores.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Profesor_Editor.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Nuevo_Profesor.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Admin_Alumno.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Estudiantes_editor.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Nuevo_Estudiantes.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Admin_Empledos.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Empleados_Editor.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Nuevo_Empleado.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Admin_Articulos.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Ver_ventas.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Articulo_editor.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Articulos.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Nuevo_Articulos.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Admin_Asignatura.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Asignatura_editor.resources
+C:\Users\Cliente\source\repos\School Manager\School Manager\obj\Debug\School_Manager.Nueva_Asignatura.resources
